@@ -1,8 +1,8 @@
 # How-to-scroll-down-the-chat-control-at-bottom-when-new-message-is-added
 
-##About the sample
+## About the sample
 
-This repository contains sample that demonstrates how to scroll chat messages by programmatically. 
+This repository contains sample that demonstrates how to scroll down the chat control at bottom when new messages is added 
 
 ```XAML
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
