@@ -26,7 +26,9 @@ This repository contains sample that demonstrates how to scroll down the chat co
     </ContentPage.Content>
 
 </ContentPage>
+```
 
+```C#
 using Syncfusion.XForms.Chat;
 using System.Collections.Specialized;
 using System.Threading.Tasks;
@@ -94,8 +96,6 @@ namespace GettingStarted
 
     }
 }
-
-
 ```
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
